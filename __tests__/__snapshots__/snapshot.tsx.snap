@@ -86,16 +86,7 @@ exports[`renders homepage unchanged 1`] = `
         <span
           class="logo"
         >
-          <img
-            alt="Vercel Logo"
-            data-nimg="1"
-            decoding="async"
-            height="16"
-            loading="lazy"
-            src="/vercel.svg"
-            style="color: transparent;"
-            width="72"
-          />
+         
         </span>
       </a>
     </footer>
